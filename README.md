@@ -60,3 +60,7 @@ copy). The first build fetches the matching OBS headers and SIMDe into `.deps/`.
   process that turns on a camera just before or during virtual camera use counts as a client. If FaceTime uses the
   MacBook camera during that time, the webcam stays on until FaceTime stops too.
 - The first launch after installing opens the webcam for about a second, before the plugin releases it.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
